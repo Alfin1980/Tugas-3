@@ -1,94 +1,45 @@
 * body{
   margin: 0;
+  padding: 0;
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 20px;
+  
 }
-.FContainer{
+/* NAVBAR */
+nav{
   display: flex;
-  padding-left: 10px;
-  width: 1400px;
-  height: 100hv;
-  font-weight: 900;
+  justify-content: space-around;
+  padding: 10px 0;
+  color: rgb(15, 15, 15);
+  text-align: center;
+  font-family: kanit,sans-serif;
+  letter-spacing: 1px;
 }
-.nama{
-  position: relative;
-  left: 50px;
-}
-.wrapper{
+nav.nama{
   display: flex;
-  padding-left: 30px;
-  align-items: center;
+}
+nav ul{
+  display: flex;
+  list-style: none;
   justify-content: space-between;
+  width: 50%;
+  font-size: 1rem;
 }
-.brand{
-  display: flex;
-  flex-direction: row;
-}
-.navigation{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.navigation>li>a{
-  position: relative;
-  left: 110px;
+nav ul li a{
   text-decoration: none;
-  color: black;
-  font-weight: 300;
+  color: rgb(15, 15, 15);
+  font-family:sans-serif;
+  text-align: center;
+  justify-content: space-around;
+  
 }
-.navigation >li{
-  list-style-type: none;
-  padding: 30px; 
-}
-.navigation>.sign>a{
-  display: flex;
-  flex-direction: row;
-  background-color:green;
-  border: 10px solid green ;
-  border-radius: 5px;
-  text-align: right;
-
-}
-.navigation>.signup>a{
+.signup>a{
+  background-color: rgb(214, 4, 4);
+  padding: 10px ;
   color: white;
-  background-color: brown;
-  border-top-left-radius: 10px solids;
-  display: flex;
-  flex-direction: row;
-  width: 50px;
-  border-radius: 20px solid;
+  border-radius: 8px ;
 }
-.image1>img{
-  width: 400px;
-  height: 400px;
-  position: relative;
-  display: flex;
-  top: 80px;
-  left: -250px;
+.login>a{
+  color: rgb(214, 4, 4);
+  padding: 20px 0;
 }
-.image1>h2{
-  position: relative;
-  top: 400px;
-  left: -900px;
-  font-family: Arial, Helvetica, sans-serif;
-  font-weight: 900;;
-  font-style:unset;
-  font-size: 50px;
-  text-align: right;
-  display: grid;
-  -ms-flex-align: end;
-}
-.image1>h2>span{
-  color: red;
-}
-.image1>p{
-  position: relative;
-  top: 400px;
-  left: -900px;
-  font-family: Arial, Helvetica, sans-serif;
-  font-weight: 300;;
-  font-style:unset;
-  display: flex;
-  flex-direction: row;
-  text-align:rights;
-}
+/* Akhir Navbar */
