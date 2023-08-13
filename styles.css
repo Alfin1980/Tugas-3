@@ -1,0 +1,94 @@
+* body{
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+.FContainer{
+  display: flex;
+  padding-left: 10px;
+  width: 1400px;
+  height: 100hv;
+  font-weight: 900;
+}
+.nama{
+  position: relative;
+  left: 50px;
+}
+.wrapper{
+  display: flex;
+  padding-left: 30px;
+  align-items: center;
+  justify-content: space-between;
+}
+.brand{
+  display: flex;
+  flex-direction: row;
+}
+.navigation{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.navigation>li>a{
+  position: relative;
+  left: 110px;
+  text-decoration: none;
+  color: black;
+  font-weight: 300;
+}
+.navigation >li{
+  list-style-type: none;
+  padding: 30px; 
+}
+.navigation>.sign>a{
+  display: flex;
+  flex-direction: row;
+  background-color:green;
+  border: 10px solid green ;
+  border-radius: 5px;
+  text-align: right;
+
+}
+.navigation>.signup>a{
+  color: white;
+  background-color: brown;
+  border-top-left-radius: 10px solids;
+  display: flex;
+  flex-direction: row;
+  width: 50px;
+  border-radius: 20px solid;
+}
+.image1>img{
+  width: 400px;
+  height: 400px;
+  position: relative;
+  display: flex;
+  top: 80px;
+  left: -250px;
+}
+.image1>h2{
+  position: relative;
+  top: 400px;
+  left: -900px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 900;;
+  font-style:unset;
+  font-size: 50px;
+  text-align: right;
+  display: grid;
+  -ms-flex-align: end;
+}
+.image1>h2>span{
+  color: red;
+}
+.image1>p{
+  position: relative;
+  top: 400px;
+  left: -900px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300;;
+  font-style:unset;
+  display: flex;
+  flex-direction: row;
+  text-align:rights;
+}
