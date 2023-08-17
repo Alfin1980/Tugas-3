@@ -104,3 +104,151 @@ display: flex;
   left: 1050px;
   font-size: 22px;
 }
+/* style isi conten */
+.conten{
+  position: absolute;
+  top: 700px;
+  left: 200px;
+  text-align: center;
+  
+}
+.conten>img{
+  width: 1000px;
+height: 90px;
+justify: space-between;
+
+}
+.comunity>img{
+  position: absolute;
+  top: 900px;
+}
+.unlock>img{
+  position: absolute;
+  top: 1300px;
+}
+.achievements>img{
+  position: absolute;
+  top: 1700px;
+}
+.unlock2>img{
+  position: absolute;
+  top: 130rem;
+}
+.timsmith>img{
+  position: absolute;
+  top: 160rem;
+  left: 10rem;
+}
+.timsmith>p{
+  position: absolute;
+  top: 159rem;
+  left: 35rem;
+  text-align:start;
+  font-size: 20px;
+}
+.timsmith>h5{
+  position: absolute;
+  top: 171rem;
+  left: 35rem;
+  font-size: 20px;
+  color: #4CAF4F;
+}
+.timsmith>h6{
+  position: absolute;
+  top: 173rem;
+  left: 35rem;
+  font-size: 15px ;
+  font-style:unset;
+  font-weight: 100;
+}
+.frameimg>img{
+  position: absolute;
+  top: 178rem;
+  left: 35rem;
+
+}
+.marketing>h2{
+  position: absolute;
+  top: 185rem;
+  left: 30rem;
+  font-size: 30px;
+}
+.marketing>p{
+  position: relative;
+  top: 184rem;
+  left: 2rem;
+  font-size: 20px;
+  text-align: center;
+}
+.marketing>img{
+  position: relative;
+  top: 185rem;
+  left: 0rem;
+}
+.lastconten>img{
+  position: relative;
+  top: 187rem;
+  left: 0;
+  width:90rem;
+  height: 250px;
+}
+.footer{
+  position: relative;
+  top: 190rem;
+  background: #263238;
+  height: 290px;
+}
+.isifooter>img{
+  position: relative;
+  top: 180rem;
+  left: 100px;
+  background-color: white;
+}
+.isifooter>p{
+  color: white;
+  position: relative;
+  top:180rem;
+  left:100px;
+}
+.listfooter h4{
+  position: relative;
+  top: 168rem;
+  left: 40rem;
+  color: #ffffff;
+  font-size: 20px;
+}
+.listfooter ul li a{
+  text-decoration: none;
+  color: #ffffff;
+  position: relative;
+  top: 168rem;
+  left: 38rem;
+  font-weight: 300;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 18px;
+}
+.listfooter ul{
+  list-style: none;
+ 
+}
+.listfooter .list2 li a{
+  position: relative;
+  top: 152rem;
+  left: 57rem;
+  color: #ffffff;
+
+}
+.listfooter h3{
+ position: relative;
+ top: 152rem;
+ left: 60rem;
+ color: #ffffff;
+ font-size: 20px;
+}
+.listfooter h5{
+  position: relative;
+  top: 135rem;
+  left: 75rem;
+  color: #ffffff;
+  font-size: 20px;
+}
