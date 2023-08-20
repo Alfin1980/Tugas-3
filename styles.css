@@ -233,22 +233,209 @@ justify: space-between;
 }
 .listfooter .list2 li a{
   position: relative;
-  top: 152rem;
-  left: 57rem;
+  top: 151rem;
+  left: 51rem;
   color: #ffffff;
 
 }
 .listfooter h3{
  position: relative;
- top: 152rem;
- left: 60rem;
+ top: 151rem;
+ left: 53rem;
+ font-weight: 600;
  color: #ffffff;
- font-size: 20px;
+ font-size: 23px;
 }
-.listfooter h5{
+.email>h5{
   position: relative;
-  top: 135rem;
-  left: 75rem;
+  top: 133rem;
+  left: 68rem;
+  color:#ffffff;
+  font-size: 25px;
+}
+.email>a{
+  position: relative;
+  top: 133rem;
+  left: 68rem;
   color: #ffffff;
+  text-decoration: none;
+  font-size: 20px ;
+  background: linear-gradient(#4a4a4d);
+  backdrop-filter: blur (5px);
+  width: 255px;
+  height: 40px;
+  border-radius: 8px;
+
+}
+.comunity h4{
+  position: relative;
+  top: 45rem;
+  left: 2rem;
+  text-align: center;
+  font-size: 25px;
+}
+.comunity p{
+  position: relative;
+  top: 44rem;
+  left: 38rem;
+  font-size: 15px;
+  
+}
+.comunity-icon img{
+  position: relative;
+  top: 49rem;
+  left: 18rem;
+}
+.comunity-icon>img.icon2{
+  position: relative;
+  top: 48rem;
+  left: 38rem;
+}
+.comunity-icon>img.icon3{
+  position: relative;
+  top: 48rem;
+  left: 57rem;
+}
+.text-icon .text1{
+  position: relative;
+  top: 48rem;
+  left: 16rem;
   font-size: 20px;
+}
+.text-icon .ptext1{
+  position: relative;
+  top: 47rem;
+  left: -22rem;
+  text-align: center;
+}
+.text-icon .text2{
+  position: relative;
+  top: 38rem;
+  left: 2rem;
+  text-align: center;
+  font-size: 20px;
+}
+.text-icon .ptext2{
+  position: relative;
+  top: 37rem;
+  left: 2rem;
+  text-align: center;
+}
+.text-icon .text3{
+  font-size: 20px;
+  position: relative;
+  top: 27rem;
+  left: 25rem;
+  text-align: center;
+}
+.text-icon .ptext3{
+  position: relative;
+  top: 26rem;
+  left: 25rem;
+  text-align: center;
+}
+.mobile-login img{
+  position: relative;
+  top: 32rem;
+  left: 10rem;
+}
+.mobile-login .text-judul{
+  position: relative;
+  top: 12rem;
+  left: 35rem;
+  width: 600;
+  font-size: 36px;
+}
+.mobile-login .text-dec{
+  position: relative;
+  top: 10rem;
+  left: 35rem;
+  font-size: 14px;
+  width: 400;
+}
+.mobile-login a{
+  position: relative;
+  top: 12rem;
+  left: 35rem;
+  text-decoration: none;
+  background-color: #4CAF4F;;
+  padding: 2px ;
+  color: white;
+  border-radius: 8px ;
+  padding: 15px;
+}
+.local-busines h3{
+  position: relative;
+  top: 20rem;
+  left: 15rem;
+  font-size: 30px ;
+  width: 500;
+}
+.local-busines h3>span{
+  color: #4CAF4F;
+}
+.local-busines p{
+  position: relative;
+  top: 19rem;
+  left: 15rem;
+}
+.local-busines .simbol{
+  position: relative;
+  top: 11rem;
+  left: 45rem;
+}
+.local-busines .simbol1{
+  position: relative;
+  top: 18rem;
+  left: 42rem;
+}
+.local-busines .simbol2{
+  position: relative;
+  top: 11rem;
+  left: 52rem;
+}
+.local-busines .simbol3{
+  position: relative;
+  top: 18rem;
+  left: 49rem;
+}
+.keterangan .h1{
+  position: relative;
+  top: 7rem;
+  left: 49rem;
+}
+.keterangan .p1{
+  position: relative;
+  top: 6rem;
+  left: 49rem;
+}
+.keterangan .h2{
+  position: relative;
+  top: 2rem;
+  left: 62rem;
+}
+.keterangan .p2{
+  position: relative;
+  top: 1rem;
+  left: 62rem;
+}
+.keterangan .h3{
+  position: relative;
+  top: 4rem;
+  left: 49rem;
+}
+.keterangan .p3{
+  position: relative;
+  top: 3rem;
+  left: 49rem;
+}
+.keterangan .h4{
+  position: relative;
+  top: -1rem;
+  left: 62rem;
+}
+.keterangan .p4{
+  position: relative;
+  top: -2rem;
+  left: 62rem;
 }
