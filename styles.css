@@ -161,6 +161,11 @@ justify: space-between;
   font-style:unset;
   font-weight: 100;
 }
+.timsmith .iconsimbol{
+  position: relative;
+  top: 173rem;
+  left: 35rem;
+}
 .frameimg>img{
   position: absolute;
   top: 178rem;
@@ -438,4 +443,119 @@ justify: space-between;
   position: relative;
   top: -2rem;
   left: 62rem;
+}
+.pana img{
+  position: relative;
+  top: -2rem;
+  left: 10rem;
+}
+.pana .pana1{
+  position: relative;
+  top: -28rem;
+  left: 36rem;
+  font-size: 36px;
+  width: 600;
+  color:#4D4D4D;
+}
+.pana .panap{
+  position: relative;
+  top: -29rem;
+  left: 36rem;
+  width: 400;
+  color: #717171;
+}
+.img-marketing .gambar1{
+  position: relative;
+  top: 22rem;
+  left: 8rem;
+}
+.img-marketing .gambar2{
+  position: relative;
+  top: 22rem;
+  left: 10rem;
+}
+.img-marketing .gambar3{
+  position: relative;
+  top: 22rem;
+  left: 12rem;
+}
+.link-mar .creating{
+  color:#717171;
+  position: relative;
+  top: 15rem;
+  left: 10rem;
+  text-align: center;
+  background-color: #ffffff;
+  width: 18rem;
+  height: 11rem;
+}
+.link-mar .creatinga{
+  text-decoration: none;
+  position: relative;
+  top: 9rem;
+  left: 14rem;
+  color: #4CAF4F;
+  font-size: 25px;
+}
+.link-mar .creating2{
+  color:#717171;
+  position: relative;
+  top: -5px;
+  left: 36rem;
+  text-align: center;
+  background-color: #ffffff;
+  width: 18rem;
+  height: 11rem;
+}
+.link-mar .creatinga2{
+  text-decoration: none;
+  position: relative;
+  top: -6rem;
+  left: 41rem;
+  color: #4CAF4F;
+  font-size: 25px;
+}
+.link-mar .creating3{
+  color:#717171;
+  position: relative;
+  top: -16rem;
+  left: 62rem;
+  text-align: center;
+  background-color: #ffffff;
+  width: 18rem;
+  height: 11rem;
+}
+.link-mar .creatinga3{
+  text-decoration: none;
+  position: relative;
+  top: -21rem;
+  left: 67rem;
+  color: #4CAF4F;
+  font-size: 25px;
+}
+
+.gitdemo h2{
+  position: relative;
+  top: -20rem;
+  left: 2rem;
+  font-size: 60px;
+  text-align: center;
+}
+.gitdemo a{
+  position: relative;
+  top: -20rem;
+  left: 40rem;
+  text-decoration: none;
+  background-color: #4CAF4F;
+  padding: 10px ;
+  color: white;
+  border-radius: 8px ;
+  padding: 14,  40px, 14px, 40px;
+
+}
+.gitdemo img{
+  position: relative;
+  top: -20rem;
+  left: 38rem;
+
 }
